@@ -1,0 +1,28 @@
+.img {
+    width: 20%;
+    height: 20%;
+    margin: 40px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    height: 100px;
+    width: 80%;
+    margin-left: 200px;
+    margin-bottom: 40px;
+}
+
+.random, .left-arrow, .right-arrow {
+    width: 200px;
+    font-size: 50px;
+    height: 100px;
+}
+
+.arrows{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}

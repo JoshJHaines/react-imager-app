@@ -1,0 +1,11 @@
+.thumbnail{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    border: 1px solid black;
+    height: 600px;
+    width: 75%;
+    margin-left: 200px;
+    flex-wrap: wrap;
+}
